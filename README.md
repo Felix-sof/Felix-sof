@@ -21,6 +21,7 @@
 ### 🎓 Education
 
 **B.Sc. Software Engineering** — Beykent University, Istanbul *(2022 – 2026)*
+
 **B.Sc. Computer Science (Erasmus Exchange)** — Freie Universität Berlin *(04/2026 – 09/2026)*
 
 - Advanced Data Visualization for AI (Master's-level) — Python, Altair
